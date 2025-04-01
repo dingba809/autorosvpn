@@ -162,10 +162,6 @@ add address=3.254.234.0/25 disabled=no list=route-aws@eu
 add address=3.254.234.128/25 disabled=no list=route-aws@eu
 add address=3.254.236.0/22 disabled=no list=route-aws@eu
 add address=3.255.16.0/22 disabled=no list=route-aws@eu
-add address=5.60.24.0/22 disabled=no list=route-aws@eu
-add address=5.60.32.0/22 disabled=no list=route-aws@eu
-add address=5.60.204.0/22 disabled=no list=route-aws@eu
-add address=5.60.208.0/22 disabled=no list=route-aws@eu
 add address=13.36.0.0/14 disabled=no list=route-aws@eu
 add address=13.36.18.0/28 disabled=no list=route-aws@eu
 add address=13.36.18.32/27 disabled=no list=route-aws@eu
@@ -245,6 +241,7 @@ add address=13.60.1.84/31 disabled=no list=route-aws@eu
 add address=13.60.1.88/30 disabled=no list=route-aws@eu
 add address=13.62.0.0/15 disabled=no list=route-aws@eu
 add address=13.134.0.0/15 disabled=no list=route-aws@eu
+add address=13.134.24.0/23 disabled=no list=route-aws@eu
 add address=13.154.0.0/16 disabled=no list=route-aws@eu
 add address=13.160.0.0/16 disabled=no list=route-aws@eu
 add address=13.248.65.0/24 disabled=no list=route-aws@eu
@@ -544,6 +541,7 @@ add address=16.12.24.0/21 disabled=no list=route-aws@eu
 add address=16.12.32.0/22 disabled=no list=route-aws@eu
 add address=16.12.59.0/24 disabled=no list=route-aws@eu
 add address=16.15.12.0/22 disabled=no list=route-aws@eu
+add address=16.15.20.0/22 disabled=no list=route-aws@eu
 add address=16.16.0.0/16 disabled=no list=route-aws@eu
 add address=16.16.2.0/23 disabled=no list=route-aws@eu
 add address=16.16.108.0/23 disabled=no list=route-aws@eu
@@ -800,6 +798,7 @@ add address=51.44.0.0/16 disabled=no list=route-aws@eu
 add address=51.44.72.0/22 disabled=no list=route-aws@eu
 add address=51.45.0.0/16 disabled=no list=route-aws@eu
 add address=51.46.0.0/15 disabled=no list=route-aws@eu
+add address=51.48.0.0/15 disabled=no list=route-aws@eu
 add address=51.92.0.0/16 disabled=no list=route-aws@eu
 add address=51.93.0.0/16 disabled=no list=route-aws@eu
 add address=51.94.0.0/15 disabled=no list=route-aws@eu

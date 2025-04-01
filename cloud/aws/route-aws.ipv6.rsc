@@ -42,6 +42,8 @@ add address=2a05:d000:c000::/40 disabled=no list=route-aws
 add address=2a05:d000:c000::/40 disabled=no list=route-aws
 add address=2a05:d000:e000::/40 disabled=no list=route-aws
 add address=2a05:d000:e000::/40 disabled=no list=route-aws
+add address=2a05:d010:8000::/36 disabled=no list=route-aws
+add address=2a05:d010:8000::/36 disabled=no list=route-aws
 add address=2a05:d011::/36 disabled=no list=route-aws
 add address=2a05:d011::/36 disabled=no list=route-aws
 add address=2a05:d011:cbe:f700::/56 disabled=no list=route-aws
@@ -81,6 +83,8 @@ add address=2a05:d01e::/36 disabled=no list=route-aws
 add address=2a05:d01e::/36 disabled=no list=route-aws
 add address=2a05:d01f::/36 disabled=no list=route-aws
 add address=2a05:d01f::/36 disabled=no list=route-aws
+add address=2a05:d020:8000::/36 disabled=no list=route-aws
+add address=2a05:d020:8000::/36 disabled=no list=route-aws
 add address=2a05:d021::/36 disabled=no list=route-aws
 add address=2a05:d021::/36 disabled=no list=route-aws
 add address=2a05:d022:1c::/48 disabled=no list=route-aws
@@ -150,6 +154,8 @@ add address=2a05:d030:c000::/40 disabled=no list=route-aws
 add address=2a05:d030:e000::/40 disabled=no list=route-aws
 add address=2a05:d030:e000::/40 disabled=no list=route-aws
 add address=2a05:d030:e000::/40 disabled=no list=route-aws
+add address=2a05:d031:800::/40 disabled=no list=route-aws
+add address=2a05:d031:800::/40 disabled=no list=route-aws
 add address=2a05:d031:1000::/40 disabled=no list=route-aws
 add address=2a05:d031:1000::/40 disabled=no list=route-aws
 add address=2a05:d031:2000::/40 disabled=no list=route-aws
@@ -172,6 +178,8 @@ add address=2a05:d031:c000::/40 disabled=no list=route-aws
 add address=2a05:d031:c000::/40 disabled=no list=route-aws
 add address=2a05:d031:e000::/40 disabled=no list=route-aws
 add address=2a05:d031:e000::/40 disabled=no list=route-aws
+add address=2a05:d032:800::/40 disabled=no list=route-aws
+add address=2a05:d032:800::/40 disabled=no list=route-aws
 add address=2a05:d032:1000::/40 disabled=no list=route-aws
 add address=2a05:d032:1000::/40 disabled=no list=route-aws
 add address=2a05:d032:2000::/40 disabled=no list=route-aws
@@ -198,6 +206,9 @@ add address=2a05:d032:c000::/40 disabled=no list=route-aws
 add address=2a05:d032:c000::/40 disabled=no list=route-aws
 add address=2a05:d032:e000::/40 disabled=no list=route-aws
 add address=2a05:d032:e000::/40 disabled=no list=route-aws
+add address=2a05:d034:800::/40 disabled=no list=route-aws
+add address=2a05:d034:800::/40 disabled=no list=route-aws
+add address=2a05:d034:800::/40 disabled=no list=route-aws
 add address=2a05:d034:1000::/40 disabled=no list=route-aws
 add address=2a05:d034:1000::/40 disabled=no list=route-aws
 add address=2a05:d034:1000::/40 disabled=no list=route-aws
@@ -231,6 +242,8 @@ add address=2a05:d034:c000::/40 disabled=no list=route-aws
 add address=2a05:d034:e000::/40 disabled=no list=route-aws
 add address=2a05:d034:e000::/40 disabled=no list=route-aws
 add address=2a05:d034:e000::/40 disabled=no list=route-aws
+add address=2a05:d035:800::/40 disabled=no list=route-aws
+add address=2a05:d035:800::/40 disabled=no list=route-aws
 add address=2a05:d035:1000::/40 disabled=no list=route-aws
 add address=2a05:d035:1000::/40 disabled=no list=route-aws
 add address=2a05:d035:2000::/40 disabled=no list=route-aws
@@ -253,6 +266,8 @@ add address=2a05:d035:c000::/40 disabled=no list=route-aws
 add address=2a05:d035:c000::/40 disabled=no list=route-aws
 add address=2a05:d035:e000::/40 disabled=no list=route-aws
 add address=2a05:d035:e000::/40 disabled=no list=route-aws
+add address=2a05:d036:800::/40 disabled=no list=route-aws
+add address=2a05:d036:800::/40 disabled=no list=route-aws
 add address=2a05:d036:1000::/40 disabled=no list=route-aws
 add address=2a05:d036:1000::/40 disabled=no list=route-aws
 add address=2a05:d036:2000::/40 disabled=no list=route-aws
@@ -275,6 +290,8 @@ add address=2a05:d036:c000::/40 disabled=no list=route-aws
 add address=2a05:d036:c000::/40 disabled=no list=route-aws
 add address=2a05:d036:e000::/40 disabled=no list=route-aws
 add address=2a05:d036:e000::/40 disabled=no list=route-aws
+add address=2a05:d038:800::/40 disabled=no list=route-aws
+add address=2a05:d038:800::/40 disabled=no list=route-aws
 add address=2a05:d038:1000::/40 disabled=no list=route-aws
 add address=2a05:d038:1000::/40 disabled=no list=route-aws
 add address=2a05:d038:2000::/40 disabled=no list=route-aws
@@ -297,6 +314,8 @@ add address=2a05:d038:c000::/40 disabled=no list=route-aws
 add address=2a05:d038:c000::/40 disabled=no list=route-aws
 add address=2a05:d038:e000::/40 disabled=no list=route-aws
 add address=2a05:d038:e000::/40 disabled=no list=route-aws
+add address=2a05:d03a:800::/40 disabled=no list=route-aws
+add address=2a05:d03a:800::/40 disabled=no list=route-aws
 add address=2a05:d03a:1000::/40 disabled=no list=route-aws
 add address=2a05:d03a:1000::/40 disabled=no list=route-aws
 add address=2a05:d03a:2000:100::/56 disabled=no list=route-aws
@@ -351,6 +370,8 @@ add address=2a05:d03a:e000:400::/56 disabled=no list=route-aws
 add address=2a05:d03a:e000::/40 disabled=no list=route-aws
 add address=2a05:d03a:e000::/40 disabled=no list=route-aws
 add address=2a05:d03a:e000::/56 disabled=no list=route-aws
+add address=2a05:d040:800::/40 disabled=no list=route-aws
+add address=2a05:d040:800::/40 disabled=no list=route-aws
 add address=2a05:d040:1000::/40 disabled=no list=route-aws
 add address=2a05:d040:1000::/40 disabled=no list=route-aws
 add address=2a05:d040:2000::/40 disabled=no list=route-aws
@@ -373,6 +394,8 @@ add address=2a05:d040:c000::/40 disabled=no list=route-aws
 add address=2a05:d040:c000::/40 disabled=no list=route-aws
 add address=2a05:d040:e000::/40 disabled=no list=route-aws
 add address=2a05:d040:e000::/40 disabled=no list=route-aws
+add address=2a05:d050:800::/40 disabled=no list=route-aws
+add address=2a05:d050:800::/40 disabled=no list=route-aws
 add address=2a05:d050:1000::/40 disabled=no list=route-aws
 add address=2a05:d050:1000::/40 disabled=no list=route-aws
 add address=2a05:d050:2000::/40 disabled=no list=route-aws
@@ -395,6 +418,8 @@ add address=2a05:d050:c000::/40 disabled=no list=route-aws
 add address=2a05:d050:c000::/40 disabled=no list=route-aws
 add address=2a05:d050:e000::/40 disabled=no list=route-aws
 add address=2a05:d050:e000::/40 disabled=no list=route-aws
+add address=2a05:d06f:800::/40 disabled=no list=route-aws
+add address=2a05:d06f:800::/40 disabled=no list=route-aws
 add address=2a05:d06f:1000::/40 disabled=no list=route-aws
 add address=2a05:d06f:1000::/40 disabled=no list=route-aws
 add address=2a05:d06f:2000::/40 disabled=no list=route-aws
@@ -417,6 +442,9 @@ add address=2a05:d06f:c000::/40 disabled=no list=route-aws
 add address=2a05:d06f:c000::/40 disabled=no list=route-aws
 add address=2a05:d06f:e000::/40 disabled=no list=route-aws
 add address=2a05:d06f:e000::/40 disabled=no list=route-aws
+add address=2a05:d070:800::/40 disabled=no list=route-aws
+add address=2a05:d070:800::/40 disabled=no list=route-aws
+add address=2a05:d070:800::/40 disabled=no list=route-aws
 add address=2a05:d070:1000::/40 disabled=no list=route-aws
 add address=2a05:d070:1000::/40 disabled=no list=route-aws
 add address=2a05:d070:1000::/40 disabled=no list=route-aws
@@ -450,6 +478,8 @@ add address=2a05:d070:c000::/40 disabled=no list=route-aws
 add address=2a05:d070:e000::/40 disabled=no list=route-aws
 add address=2a05:d070:e000::/40 disabled=no list=route-aws
 add address=2a05:d070:e000::/40 disabled=no list=route-aws
+add address=2a05:d072:800::/40 disabled=no list=route-aws
+add address=2a05:d072:800::/40 disabled=no list=route-aws
 add address=2a05:d072:1000::/40 disabled=no list=route-aws
 add address=2a05:d072:1000::/40 disabled=no list=route-aws
 add address=2a05:d072:2000::/40 disabled=no list=route-aws
@@ -472,6 +502,8 @@ add address=2a05:d072:c000::/40 disabled=no list=route-aws
 add address=2a05:d072:c000::/40 disabled=no list=route-aws
 add address=2a05:d072:e000::/40 disabled=no list=route-aws
 add address=2a05:d072:e000::/40 disabled=no list=route-aws
+add address=2a05:d074:800::/40 disabled=no list=route-aws
+add address=2a05:d074:800::/40 disabled=no list=route-aws
 add address=2a05:d074:1000::/40 disabled=no list=route-aws
 add address=2a05:d074:1000::/40 disabled=no list=route-aws
 add address=2a05:d074:2000::/40 disabled=no list=route-aws
@@ -494,6 +526,8 @@ add address=2a05:d074:c000::/40 disabled=no list=route-aws
 add address=2a05:d074:c000::/40 disabled=no list=route-aws
 add address=2a05:d074:e000::/40 disabled=no list=route-aws
 add address=2a05:d074:e000::/40 disabled=no list=route-aws
+add address=2a05:d076:800::/40 disabled=no list=route-aws
+add address=2a05:d076:800::/40 disabled=no list=route-aws
 add address=2a05:d076:1000::/40 disabled=no list=route-aws
 add address=2a05:d076:1000::/40 disabled=no list=route-aws
 add address=2a05:d076:2000::/40 disabled=no list=route-aws
@@ -516,6 +550,8 @@ add address=2a05:d076:c000::/40 disabled=no list=route-aws
 add address=2a05:d076:c000::/40 disabled=no list=route-aws
 add address=2a05:d076:e000::/40 disabled=no list=route-aws
 add address=2a05:d076:e000::/40 disabled=no list=route-aws
+add address=2a05:d077:800::/40 disabled=no list=route-aws
+add address=2a05:d077:800::/40 disabled=no list=route-aws
 add address=2a05:d077:1000::/40 disabled=no list=route-aws
 add address=2a05:d077:1000::/40 disabled=no list=route-aws
 add address=2a05:d077:2000::/40 disabled=no list=route-aws
@@ -558,6 +594,7 @@ add address=2a05:d078:c000::/40 disabled=no list=route-aws
 add address=2a05:d078:c000::/40 disabled=no list=route-aws
 add address=2a05:d078:e000::/40 disabled=no list=route-aws
 add address=2a05:d078:e000::/40 disabled=no list=route-aws
+add address=2a05:d079:800::/40 disabled=no list=route-aws
 add address=2a05:d079:1000::/40 disabled=no list=route-aws
 add address=2a05:d079:1000::/40 disabled=no list=route-aws
 add address=2a05:d079:2000::/40 disabled=no list=route-aws
@@ -593,6 +630,8 @@ add address=2a05:d07a:c000::/40 disabled=no list=route-aws
 add address=2a05:d07a:c000::/40 disabled=no list=route-aws
 add address=2a05:d07a:e000::/40 disabled=no list=route-aws
 add address=2a05:d07a:e000::/40 disabled=no list=route-aws
+add address=2a05:d07b:800::/40 disabled=no list=route-aws
+add address=2a05:d07b:800::/40 disabled=no list=route-aws
 add address=2a05:d07b:1000::/40 disabled=no list=route-aws
 add address=2a05:d07b:1000::/40 disabled=no list=route-aws
 add address=2a05:d07b:2000::/40 disabled=no list=route-aws
@@ -625,6 +664,7 @@ add address=2a05:d07c:9000::/40 disabled=no list=route-aws
 add address=2a05:d07c:a000::/40 disabled=no list=route-aws
 add address=2a05:d07c:c000::/40 disabled=no list=route-aws
 add address=2a05:d07c:e000::/40 disabled=no list=route-aws
+add address=2a05:d07e:800::/40 disabled=no list=route-aws
 add address=2a05:d07e:1000::/40 disabled=no list=route-aws
 add address=2a05:d07e:2000::/40 disabled=no list=route-aws
 add address=2a05:d07e:4000::/40 disabled=no list=route-aws
@@ -636,6 +676,8 @@ add address=2a05:d07e:a000::/40 disabled=no list=route-aws
 add address=2a05:d07e:b000::/40 disabled=no list=route-aws
 add address=2a05:d07e:c000::/40 disabled=no list=route-aws
 add address=2a05:d07e:e000::/40 disabled=no list=route-aws
+add address=2a05:d07f:800::/40 disabled=no list=route-aws
+add address=2a05:d07f:800::/40 disabled=no list=route-aws
 add address=2a05:d07f:1000::/40 disabled=no list=route-aws
 add address=2a05:d07f:1000::/40 disabled=no list=route-aws
 add address=2a05:d07f:2000::/40 disabled=no list=route-aws
@@ -718,6 +760,9 @@ add address=2001:3fc5:800::/40 disabled=no list=route-aws
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws
 add address=2001:3fc5:8800::/40 disabled=no list=route-aws
 add address=2001:3fc6:0:100::/56 disabled=no list=route-aws
+add address=2001:3fc6:100::/48 disabled=no list=route-aws
+add address=2001:3fc6:100::/48 disabled=no list=route-aws
+add address=2001:3fc6:100::/48 disabled=no list=route-aws
 add address=2001:3fc6::/56 disabled=no list=route-aws
 add address=2001:3fc7:800::/40 disabled=no list=route-aws
 add address=2001:3fc7:800::/40 disabled=no list=route-aws
@@ -1978,6 +2023,8 @@ add address=2600:1f12:8000::/36 disabled=no list=route-aws
 add address=2600:1f12:8000::/36 disabled=no list=route-aws
 add address=2600:1f12::/36 disabled=no list=route-aws
 add address=2600:1f12::/36 disabled=no list=route-aws
+add address=2600:1f12:c000::/36 disabled=no list=route-aws
+add address=2600:1f12:c000::/36 disabled=no list=route-aws
 add address=2600:1f12:fa9:5100::/56 disabled=no list=route-aws
 add address=2600:1f13:8000::/36 disabled=no list=route-aws
 add address=2600:1f13:8000::/36 disabled=no list=route-aws
@@ -2037,6 +2084,8 @@ add address=2600:1f22:8000::/36 disabled=no list=route-aws
 add address=2600:1f22:8000::/36 disabled=no list=route-aws
 add address=2600:1f22::/36 disabled=no list=route-aws
 add address=2600:1f22::/36 disabled=no list=route-aws
+add address=2600:1f22:c000::/36 disabled=no list=route-aws
+add address=2600:1f22:c000::/36 disabled=no list=route-aws
 add address=2600:1f23:8000::/36 disabled=no list=route-aws
 add address=2600:1f23:8000::/36 disabled=no list=route-aws
 add address=2600:1f23::/36 disabled=no list=route-aws
@@ -2911,6 +2960,8 @@ add address=2600:f0f0:86::/48 disabled=no list=route-aws
 add address=2600:f0f0:86::/48 disabled=no list=route-aws
 add address=2600:f0f0:87::/48 disabled=no list=route-aws
 add address=2600:f0f0:87::/48 disabled=no list=route-aws
+add address=2600:f0f0:90::/48 disabled=no list=route-aws
+add address=2600:f0f0:90::/48 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
 add address=2600:f0f0:300:100::/56 disabled=no list=route-aws
@@ -3193,6 +3244,8 @@ add address=2606:7b40:1b0c::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0c::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0d:8000::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0d:8000::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0e::/56 disabled=no list=route-aws
+add address=2606:7b40:1b0e::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:4000::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:4000::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:c000::/56 disabled=no list=route-aws
@@ -3215,6 +3268,10 @@ add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fa00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fd00::/56 disabled=no list=route-aws
 add address=2606:7b40:1b0f:fd00::/56 disabled=no list=route-aws
+add address=2606:7b40:9fc::/48 disabled=no list=route-aws
+add address=2606:7b40:9fc::/48 disabled=no list=route-aws
+add address=2606:7b40:9fd::/48 disabled=no list=route-aws
+add address=2606:7b40:9fd::/48 disabled=no list=route-aws
 add address=2606:7b40:10f8::/46 disabled=no list=route-aws
 add address=2606:7b40:10f8::/46 disabled=no list=route-aws
 add address=2606:7b40:10ff:7000::/56 disabled=no list=route-aws
